@@ -1,0 +1,13 @@
+ipyplot
+multiprocess 
+matplotlib
+tqdm
+tensorflow == 2.5.0
+numpy
+sklearn
+seaborn
+pandas
+tensorflow_similarity == 0.14.8
+pillow
+pyparsing==2.4.2
+
