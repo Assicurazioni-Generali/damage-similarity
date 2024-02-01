@@ -62,7 +62,7 @@ INFERENCE TIME:
 - test_{framework}.ipynb implements the framework specific testing procedure 
 - inference_similarity.ipynb implements the inference to give an insight of the model practical application
 - visualize_activation_maps.ipynb allows to generate activation maps associated to the input images
-- LEGACY_model_agnostic_test_tfsimil_PAPER_2.1 to replicate test with tf similarity library (worst than torch_reid as evinced from our tests) LUCA [STESSA STRUTTURA PER ALTRI MODELLI E DATASET]
+- LEGACY_model_agnostic_test_tfsimil_PAPER_2.1 to replicate test with tf similarity library (worst than torch_reid as evinced from our tests) 
 - model_agnostic_test_{framework}.ipynb shows how to perform a generic test that allows to compare different framework  
 - project embeddings to produce a 2d visual representation of the embedding of a given dataset 
 
