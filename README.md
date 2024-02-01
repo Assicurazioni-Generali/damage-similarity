@@ -54,7 +54,7 @@ INFERENCE TIME:
 - use the notebook main.ipynb to use all the functionalities
 
 ## NOTEBOOKS
-- generate_cropped_data_semisupervised.ipynb allows to label data using an available model LUCA
+- generate_cropped_data_semisupervised.ipynb allows to label data using an available model 
 - generate_cropped_data_supervised.ipynb allows to label data using .json annotations
 - generate_dataset_encoding.ipynb allows to rename images in the format damageid_imageid.jpg (e.g. 4_5.jpg)
 - generate_synthetic_dataset.ipynb allows to generate a synthetic dataset with spliced damages
@@ -64,7 +64,7 @@ INFERENCE TIME:
 - visualize_activation_maps.ipynb allows to generate activation maps associated to the input images
 - LEGACY_model_agnostic_test_tfsimil_PAPER_2.1 to replicate test with tf similarity library (worst than torch_reid as evinced from our tests) LUCA [STESSA STRUTTURA PER ALTRI MODELLI E DATASET]
 - model_agnostic_test_{framework}.ipynb shows how to perform a generic test that allows to compare different framework  
-- project embeddings to produce a 2d visual representation of the embedding of a given dataset LUCA
+- project embeddings to produce a 2d visual representation of the embedding of a given dataset 
 
 ## DATASETS
 - subsample_data_raw contains data to be annotated
