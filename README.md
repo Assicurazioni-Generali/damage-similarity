@@ -14,6 +14,8 @@ The adopted solution is a feature-extraction network (osnet_x1_0) trained using 
 - osnet_x1_0: Given an input image, a corresponding vector of features is generated;
 - cosine similarity: the resulting features are compared so as to assess the similarity between them.
 
+# DOWNLOAD
+You can download the pre-trained model and dataset at [this link](https://drive.google.com/drive/u/1/folders/1VKMuGIejowfg7xylZsPKJ9VGdaxNWTYv).
 
 # DATASET
 Training:
